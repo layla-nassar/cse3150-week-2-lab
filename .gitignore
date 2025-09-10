@@ -1,0 +1,12 @@
+# compiled stuff
+parser_app
+*.o
+
+# misc
+.DS_Store
+__pycache__/
+*.pyc
+build/
+.venv/
+.pytest_cache/
+.vscode/
